@@ -1,11 +1,11 @@
-# Hi, I'm Susan Njoki 👋  
-**Python-Focused Data Analyst | Entry-Level Data Scientist**
+# Hi, I'm Susan Njoki   
+**Data Analyst | Data Scientist**
 
 I specialize in transforming raw data into structured insights using Python, with a strong focus on data cleaning, preprocessing, and exploratory analysis.
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 - Python (Pandas, NumPy, Matplotlib)
 - Jupyter Notebook
 - Data Cleaning & Preprocessing
@@ -15,7 +15,7 @@ I specialize in transforming raw data into structured insights using Python, wit
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 📌 ISP Churn Prediction (Kenya)
 Machine learning model to predict customer churn using structured telecom data.  
@@ -27,7 +27,7 @@ Machine learning model to predict customer churn using structured telecom data.
 
 ---
 
-### 📌 SMS Spam Detection
+###  SMS Spam Detection
 Binary classification model for spam detection using NLP techniques.  
 - Text preprocessing  
 - Feature extraction  
@@ -37,16 +37,6 @@ Binary classification model for spam detection using NLP techniques.
 
 ---
 
-### 📌 Unemployment Forecasting
-Time series analysis and forecasting of unemployment rates.  
-- Data collection & cleaning  
-- Trend analysis  
-- Forecast modeling  
-
-🔗 [View Project](https://github.com/S-909/Forecasting-Unemployment-Rates.)
-
----
-
-## 📫 Contact Me
+##  Contact Me
 - LinkedIn: linkedin.com/in/susan-njoki-maina  
 - Email: susannjokimaina8@gmail.com
